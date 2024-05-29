@@ -85,10 +85,10 @@ The program includes basic error handling for:
 <li>Database connection issues.</li>
 <li>SMS API request failures.</li>
 </ul>
-Contributions
+<h3><b>Contributions</b></h3>
 Contributions are welcome! Please fork the repository and create a pull request with your changes.
 
-License
+<h3><b>License</b></h3>
 This project is licensed under the MIT License.
 
 **Contact
