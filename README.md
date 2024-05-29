@@ -51,9 +51,11 @@ The SQLite database has a single table named bookings with the following columns
 <h2><b>Usage</b></h2>
 <h3><b>Run the Application:</b></h3>
 
-sh
-Copy code
+<div style='border: 1px solid #000; padding: 10px;background-color: #f9f9f9'>
+<pre>
 python main.py
+</pre>
+</div>
 Input Details:
 
 The program will prompt you to enter the following details:
