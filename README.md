@@ -15,7 +15,6 @@ This project is a Python-based application designed to allow Kenyan high school 
 </ul>
 
 <h2><b>Setup and Installation</b></h2>
-<br></br>
 <h3><b>Clone the Repository:</b></h3>
 
 
