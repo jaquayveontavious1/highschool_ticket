@@ -3,9 +3,11 @@
 This project is a Python-based application designed to allow Kenyan high school students to book bus tickets for their school commute. The application collects booking details from the user, stores them in an SQLite3 database, and sends a confirmation message via SMS using an API.
 <br></br>
 <h2><b>Features</b></h2>
-Collects user input for bus ticket booking.<br></br>
-Stores booking details in an SQLite3 database.<br></br>
-Sends a confirmation SMS to the user with booking details.<br></br>
+<ul>
+<li>Collects user input for bus ticket booking.</li>
+<li>Stores booking details in an SQLite3 database.</li>
+<li>Sends a confirmation SMS to the user with booking details.</li>
+</ul>
 **Requirements**
 Python 3.x
 Libraries: sqlite3, requests
