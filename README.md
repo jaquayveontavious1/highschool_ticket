@@ -66,10 +66,11 @@ The program will prompt you to enter the following details:
 <li>Departure time</li>
 <li>Phone number</li>
 </ul>
-Receive Confirmation:
-
-After inputting the details, the program stores the information in the database.
-An SMS confirmation is sent to the provided phone number with the booking details.
+<h3><b>Receive Confirmation:</b></h3>
+<ul>
+<li>After inputting the details, the program stores the information in the database.</li>
+<li>An SMS confirmation is sent to the provided phone number with the booking details.</li>
+</ul>
 Example Workflow
 Start the program.
 Enter the student's name, school name, bus route, departure time, and phone number when prompted.
