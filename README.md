@@ -91,7 +91,8 @@ Contributions are welcome! Please fork the repository and create a pull request 
 <h3><b>License</b></h3>
 This project is licensed under the MIT License.
 
-**Contact
+<h3><b>Contact</b></h3>
 For any questions or support, please contact:
-
-Your Name: kanyingitiffany@gmail.com
+<ul>
+<li>Your Name: kanyingitiffany@gmail.com</li>
+</ul>
