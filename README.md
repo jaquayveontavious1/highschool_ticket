@@ -12,13 +12,13 @@ Libraries: sqlite3, requests
 Setup and Installation
 Clone the Repository:
 
-sh
+
 Copy code
 git clone https://github.com/yourusername/bus-ticket-booking.git
 cd bus-ticket-booking
 Install Required Libraries:
 
-sh
+
 Copy code
 pip install requests
 Setup SMS API:
@@ -71,4 +71,4 @@ This project is licensed under the MIT License.
 Contact
 For any questions or support, please contact:
 
-Your Name: kanyingitiffany.email@example.com
+Your Name: kanyingitiffany@gmail.com
