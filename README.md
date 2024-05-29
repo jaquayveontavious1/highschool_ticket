@@ -8,10 +8,13 @@ This project is a Python-based application designed to allow Kenyan high school 
 <li>Stores booking details in an SQLite3 database.</li>
 <li>Sends a confirmation SMS to the user with booking details.</li>
 </ul>
-**Requirements**
-Python 3.x
-Libraries: sqlite3, requests
+<h2><b>Requirements</b></h2>
+<ul>
+<li>Python 3.x</li>
+<li>Libraries: sqlite3, requests</li>
+</ul>
 Setup and Installation
+
 Clone the Repository:
 
 
