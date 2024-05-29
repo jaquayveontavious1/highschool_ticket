@@ -24,11 +24,14 @@ git clone https://github.com/jaquayveontavious1/bus-ticket-booking.git
 cd bus-ticket-booking
 </pre>
 </div>
-Install Required Libraries:
+<h3><b>Install Required Libraries:</b></h3>
 
 
-Copy code
+<div style= 'border 1px solid #000; padding: 10px; background-color: #f9f9f9'>
+<pre>
 pip install requests
+</pre>
+</div>
 Setup SMS API:
 
 Register for an account with a suitable SMS API provider (e.g., Twilio, Africa's Talking, Nexmo).
