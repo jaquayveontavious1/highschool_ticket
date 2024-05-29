@@ -32,10 +32,11 @@ cd bus-ticket-booking
 pip install requests
 </pre>
 </div>
-Setup SMS API:
-
-Register for an account with a suitable SMS API provider (e.g., Twilio, Africa's Talking, Nexmo).
-Obtain your API credentials (API key, Account SID, Auth Token, etc.).
+<h3><b>Setup SMS API:</b></h3>
+<ul>
+<li>Register for an account with a suitable SMS API provider (e.g., Twilio, Africa's Talking, Nexmo).</li>
+<li>Obtain your API credentials (API key, Account SID, Auth Token, etc.).</li>
+</ul>
 Database Schema
 The SQLite database has a single table named bookings with the following columns:
 
