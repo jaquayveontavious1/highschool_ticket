@@ -71,11 +71,13 @@ The program will prompt you to enter the following details:
 <li>After inputting the details, the program stores the information in the database.</li>
 <li>An SMS confirmation is sent to the provided phone number with the booking details.</li>
 </ul>
-Example Workflow
-Start the program.
-Enter the student's name, school name, bus route, departure time, and phone number when prompted.
-The program validates the inputs and stores them in the SQLite3 database.
-A confirmation message is sent to the user's phone number via SMS API.
+<h2><b>Example Workflow</b></h2>
+<ol>
+<li>Start the program.</li>
+<li>Enter the student's name, school name, bus route, departure time, and phone number when prompted.</li>
+<li>The program validates the inputs and stores them in the SQLite3 database.</li>
+<li>A confirmation message is sent to the user's phone number via SMS API.</li>
+</ol>
 Error Handling
 The program includes basic error handling for:
 Invalid input formats (e.g., phone number).
