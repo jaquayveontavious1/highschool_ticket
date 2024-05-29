@@ -47,8 +47,9 @@ The SQLite database has a single table named bookings with the following columns
 <li>departure_time: TEXT NOT NULL</li>
 <li>phone_number: TEXT NOT NULL</li>
 </ul>
-Usage
-Run the Application:
+
+<h2><b>Usage</b></h2>
+<h3><b>Run the Application:</b></h3>
 
 sh
 Copy code
