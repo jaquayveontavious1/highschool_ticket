@@ -1,8 +1,8 @@
-High School Bus Ticket Booking System
+<b>High School Bus Ticket Booking System</b>
 Overview
 This project is a Python-based application designed to allow Kenyan high school students to book bus tickets for their school commute. The application collects booking details from the user, stores them in an SQLite3 database, and sends a confirmation message via SMS using an API.
 
-Features
+**Features**
 Collects user input for bus ticket booking.
 Stores booking details in an SQLite3 database.
 Sends a confirmation SMS to the user with booking details.
@@ -68,7 +68,7 @@ Contributions are welcome! Please fork the repository and create a pull request 
 License
 This project is licensed under the MIT License.
 
-Contact
+**Contact
 For any questions or support, please contact:
 
 Your Name: kanyingitiffany@gmail.com
