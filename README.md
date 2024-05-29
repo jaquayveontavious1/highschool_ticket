@@ -18,9 +18,12 @@ This project is a Python-based application designed to allow Kenyan high school 
 <h3><b>Clone the Repository:</b></h3>
 
 
-Copy code
+<div style='border: 1px solid #000; padding: 10px; background-color:#f9f9f9'>
+<pre>
 git clone https://github.com/jaquayveontavious1/bus-ticket-booking.git
 cd bus-ticket-booking
+</pre>
+</div>
 Install Required Libraries:
 
 
