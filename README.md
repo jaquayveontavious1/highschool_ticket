@@ -78,11 +78,13 @@ The program will prompt you to enter the following details:
 <li>The program validates the inputs and stores them in the SQLite3 database.</li>
 <li>A confirmation message is sent to the user's phone number via SMS API.</li>
 </ol>
-Error Handling
+<h3><b>Error Handling</b></h3>
 The program includes basic error handling for:
-Invalid input formats (e.g., phone number).
-Database connection issues.
-SMS API request failures.
+<ul>
+<li>Invalid input formats (e.g., phone number).</li>
+<li>Database connection issues.</li>
+<li>SMS API request failures.</li>
+</ul>
 Contributions
 Contributions are welcome! Please fork the repository and create a pull request with your changes.
 
