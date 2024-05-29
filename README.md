@@ -39,13 +39,14 @@ pip install requests
 </ul>
 <h2><b>Database Schema</b></h2>
 The SQLite database has a single table named bookings with the following columns:
-
-id: INTEGER PRIMARY KEY AUTOINCREMENT
-student_name: TEXT NOT NULL
-school_name: TEXT NOT NULL
-bus_route: TEXT NOT NULL
-departure_time: TEXT NOT NULL
-phone_number: TEXT NOT NULL
+<ul>
+<li>id: INTEGER PRIMARY KEY AUTOINCREMENT</li>
+<li>student_name: TEXT NOT NULL</li>
+<li>school_name: TEXT NOT NULL</li>
+<li>bus_route: TEXT NOT NULL</li>
+<li>departure_time: TEXT NOT NULL</li>
+<li>phone_number: TEXT NOT NULL</li>
+</ul>
 Usage
 Run the Application:
 
