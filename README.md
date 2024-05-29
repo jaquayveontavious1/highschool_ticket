@@ -37,7 +37,7 @@ pip install requests
 <li>Register for an account with a suitable SMS API provider (e.g., Twilio, Africa's Talking, Nexmo).</li>
 <li>Obtain your API credentials (API key, Account SID, Auth Token, etc.).</li>
 </ul>
-Database Schema
+<h2><b>Database Schema</b></h2>
 The SQLite database has a single table named bookings with the following columns:
 
 id: INTEGER PRIMARY KEY AUTOINCREMENT
