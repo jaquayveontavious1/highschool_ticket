@@ -56,14 +56,16 @@ The SQLite database has a single table named bookings with the following columns
 python main.py
 </pre>
 </div>
-Input Details:
+<h3><b>Input Details:</b></h3>
 
 The program will prompt you to enter the following details:
-Student's name
-School's name
-Bus route
-Departure time
-Phone number
+<ul>
+<li>Student's name</li>
+<li>School's name</li>
+<li>Bus route</li>
+<li>Departure time</li>
+<li>Phone number</li>
+</ul>
 Receive Confirmation:
 
 After inputting the details, the program stores the information in the database.
