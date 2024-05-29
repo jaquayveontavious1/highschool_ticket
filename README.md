@@ -13,7 +13,9 @@ This project is a Python-based application designed to allow Kenyan high school 
 <li>Python 3.x</li>
 <li>Libraries: sqlite3, requests</li>
 </ul>
-Setup and Installation
+
+<h2><b>Setup and Installation</b></h2>
+<br></br>
 
 Clone the Repository:
 
